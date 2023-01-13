@@ -3,7 +3,16 @@ body {
   background-color: rgb(219, 219, 219);
 }
 
+h1 {
+  text-align: center;
+  color: cornflowerblue;
+}
+
+li {
+  font-weight: 800;
+  color: blueviolet;
+}
+
 img {
-  /* border: 1px solid blueviolet; */
-  box-shadow:1px 1px 16px 2px rgba(0,0,0,0.13);
+  box-shadow: 1px 1px 16px 2px rgba(0, 0, 0, 0.13);
 }
